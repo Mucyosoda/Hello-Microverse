@@ -26,18 +26,6 @@ Open Vs code then click on Go Live then you will be able to see the code live
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
 ## Authors
 
 👤 **Claude Mucyo Ntacyonungutse**
