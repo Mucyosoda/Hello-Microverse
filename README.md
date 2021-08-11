@@ -4,7 +4,7 @@
 
 > this is my first microverse project
 
-![screenshot](./Screenshot.png)
+![screenshot](./Screenshot.jpg)
 
 Additional description about the project and its features.
 
@@ -23,6 +23,13 @@ first clone my repository by using this link:https://github.com/Mucyosoda/Hello-
 cd Hello-Microverse
 Open Vs code then click on Go Live then you will be able to see the code live
 ```
+
+## Prerequisites
+
+- Text editor
+- Git
+- Html
+- Css
 
 ## Authors
 
